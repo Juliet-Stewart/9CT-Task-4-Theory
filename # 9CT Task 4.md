@@ -58,7 +58,7 @@ Pretend there's a screenshot here.
 
 ## Researching and Planning
 ### Flowcharts And Pseudocode
-Flowchart
+![Player Movement Flowchart](PlayerMovement.png)
 ```
 BEGIN PlayerMovement
     INPUT UserInput
@@ -70,8 +70,9 @@ BEGIN PlayerMovement
         IF PlayerTouchingGround = True
             Move player up
     ENDIF
-END PlayerMovement  
+END PlayerMovement
 ```
+![Player Death Flowchart](PlayerDeath.png)
 
 ```
 BEGIN PlayerDeath
@@ -82,7 +83,7 @@ BEGIN PlayerDeath
         PlayerCollides = True
 END PlayerDeath
 ```
-Flowchart
+![Player Win Flowchart](PlayerWin.png)
 ```
 BEGIN PlayerWin
     WHILE PlayerTouchingWin = FALSE
@@ -91,7 +92,7 @@ BEGIN PlayerWin
     NextLevel
 END PlayerWin
 ```
-Flowchart
+![Title Screen Flowchart](TitleScreen.png)
 ```
 BEGIN TitleScreen
     INPUT UserInput
@@ -100,6 +101,6 @@ BEGIN TitleScreen
     ELIF UserInput = 'Quit'
     End Game
 END TitleScreen
-
+```
 
 
