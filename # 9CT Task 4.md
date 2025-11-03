@@ -54,7 +54,7 @@ Ok, so maaaaaaybe the demon forks are a bit evil, but the rest of the game is fu
 Ok, again, the aim of the game can be seen as culturally swayed, but it is all in the context of a fun little game. If you have a problem with it, don't play it. It's just a game, it's not the end of the world.
 
 ## PMI Table
-Pretend there's a screenshot here.
+![PMI Table](PMITable.png)
 
 ## Researching and Planning
 ### Flowcharts And Pseudocode
