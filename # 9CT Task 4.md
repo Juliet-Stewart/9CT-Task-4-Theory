@@ -102,5 +102,8 @@ BEGIN TitleScreen
     End Game
 END TitleScreen
 ```
+## Storyboards
 
+![Storyboard1](IMG_20251106_185433.jpg)
+![Storyboard2](IMG_20251106_185441.jpg)
 
